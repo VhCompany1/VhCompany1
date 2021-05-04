@@ -4,6 +4,9 @@
 - Idade: 13
 - Local: Sorocaba(sp) :brazil:
 
+### Redes Sociais
+
+- (https://www.linkedin.com/in/luis-antonio-06331a207/) 
 
 
 <!--
