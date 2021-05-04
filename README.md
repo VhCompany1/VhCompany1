@@ -1,4 +1,4 @@
-<img src="https://pngimg.com/uploads/anime_girl/anime_girl_PNG11.png">
+<img src="https://pngimg.com/uploads/anime_girl/anime_girl_PNG11.png" width="65px">
 
 ### Olá, me chamo Victor!
 
