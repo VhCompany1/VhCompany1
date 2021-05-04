@@ -6,6 +6,7 @@
 - Front/Back ✔️
 - Linguagem principal JavaScript ✔️
 - Expereciencia com sites bots para discord e sistemas de bugbounty ✔️
+- Trabalho de graça ❌
 
 ### Redes Sociais
 
