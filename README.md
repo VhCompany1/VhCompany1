@@ -13,7 +13,7 @@
   <img src="https://img.icons8.com/material-rounded/452/discord-logo.png" width="65px">
 </a>
 <a href="https://twitch.tv/vhplay_">
-<img src="https://brand.twitch.tv/assets/images/black.png" width="65px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5QACUkQkr5N1VJGIqszbmRrUVg4Nifehmg&usqp=CAU" width="65px">
 </a>
 
 
