@@ -8,8 +8,11 @@
 
 <a href="https://github.com/VhCompany1">
   <img src="https://i.pinimg.com/originals/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.png" width="65px">
+</a>
+<a href="https://discord.gg/tzqYrtY4Rd">
   <img src="https://img.icons8.com/material-rounded/452/discord-logo.png" width="65px">
 </a>
+
 
 
 <!--
