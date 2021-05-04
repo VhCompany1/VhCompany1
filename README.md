@@ -30,6 +30,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VhCompany1&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VhCompany1&langs_count=8)](https://github.com/VhCompany1/github-readme-stats)
 
 
 
