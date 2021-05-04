@@ -7,7 +7,7 @@
 ### Redes Sociais
 
 <a href="https://github.com/VhCompany1">
-  <img src="https://i.pinimg.com/originals/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.png">
+  <img src="https://i.pinimg.com/originals/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.png" width="100px">
 </a>
 
 
