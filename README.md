@@ -2,10 +2,10 @@
 
 ### Sobre mim
 
-- 13 anos
+- 13 anos ✔️
 - Front/Back
-- Linguagem principal JavaScript
-- Expereciencia com sites bots para discord e sistemas de bugbounty
+- Linguagem principal JavaScript ✔️
+- Expereciencia com sites bots para discord e sistemas de bugbounty ✔️
 
 ### Redes Sociais
 
