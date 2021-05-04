@@ -1,6 +1,11 @@
-<img src="https://pngimg.com/uploads/anime_girl/anime_girl_PNG11.png" width="65px">
+## Olá, me chamo Victor!
 
-### Olá, me chamo Victor!
+### Sobre mim
+
+- 13 anos
+- Front/Back
+- Linguagem principal JavaScript
+- Expereciencia com sites bots para discord e sistemas de bugbounty
 
 ### Redes Sociais
 
