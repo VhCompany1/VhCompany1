@@ -2,7 +2,7 @@
 
 - Nome: Victor
 - Idade: 13
-- Local: Sorocaba(sp) 🇧🇷
+- Local: Sorocaba(sp) :brazil:
 
 
 
