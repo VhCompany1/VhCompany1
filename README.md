@@ -16,6 +16,10 @@
 <img src="http://pngimg.com/uploads/twitch/twitch_PNG27.png" width="65px">
 </a>
 
+### My Skills
+
+- <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="65px">
+
 
 
 
