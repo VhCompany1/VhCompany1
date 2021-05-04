@@ -6,7 +6,9 @@
 
 ### Redes Sociais
 
-- (https://www.linkedin.com/in/luis-antonio-06331a207/) 
+<a href="https://github.com/VhCompany1">
+  <img src="https://i.pinimg.com/originals/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.png">
+</a>
 
 
 <!--
