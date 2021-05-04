@@ -5,7 +5,7 @@
 - 13 anos ✔️
 - Front/Back ✔️
 - Linguagem principal JavaScript ✔️
-- Expereciencia com sites: [exemplo](https://github.com/VhCompany1/Enigma-Samgine-2) ,bots para discord: [exemplo](https://github.com/VhCompany1/Anime-Fire-Bot) e sistemas de bugbounty: [exemplo](https://github.com/VhCompany1/Discord-Vulnerabilidade-Token)
+- Expereciencia com sites: [exemplo](https://github.com/VhCompany1/Enigma-Samgine-2) ,bots para discord: [exemplo](https://github.com/VhCompany1/AnimeFireBot) e sistemas de bugbounty: [exemplo](https://github.com/VhCompany1/Discord-Vulnerabilidade-Token)
  ✔️
 - Trabalho de graça ❌
 
