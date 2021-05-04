@@ -5,7 +5,8 @@
 - 13 anos ✔️
 - Front/Back ✔️
 - Linguagem principal JavaScript ✔️
-- Expereciencia com sites bots para discord e sistemas de bugbounty ✔️
+- Expereciencia com sites: [exemplo]() ,bots para discord: [exemplo](https://github.com/VhCompany1/Rachel-Bot) e sistemas de bugbounty: [exemplo](https://github.com/VhCompany1/Discord-Vulnerabilidade-Token)
+ ✔️
 - Trabalho de graça ❌
 
 ### Redes Sociais
