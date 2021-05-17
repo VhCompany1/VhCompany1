@@ -2,6 +2,7 @@
 
 ### Sobre mim
 
+- Minha empresa: [VhCloud](https://github.com/vh-cloud)
 - 13 anos ✔️
 - Front/Back ✔️
 - Linguagem principal JavaScript ✔️
