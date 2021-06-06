@@ -1,7 +1,7 @@
 ## Olá, me chamo Victor!
 
 ### Sobre mim
-
+Olá me chamo Victor, eu sou programador focado na area web mais sei um pouco sobre algumas outras areas, meu principal projeto atualmente é a [VhCloud](https://github.com/vh-cloud) e por isso ando estudando novas tecnologias e isso esta sendo incrivel!
 - Minha empresa: [VhCloud](https://github.com/vh-cloud) ✔️
 - Front/Back ✔️
 - Linguagem principal JavaScript ✔️
